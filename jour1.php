@@ -1,4 +1,16 @@
 <?php
+
+// 1 - Une classe est une structure qui définit des attributs et des méthodes  représentant un concept du système.
+
+// 2- Parce qu’une classe sans méthodes ne possède aucun comportement et sert uniquement de conteneur de données.
+
+// 3- une classe doit avoir une seule responsabilité et Elle ne doit pas mélanger plusieurs logiques différentes
+
+
+/****************
+ * Chalenges
+*****************/
+
 // 1 - cette classe ne contient aucune methode 
 // 2 - 
 class Livre {
@@ -38,7 +50,7 @@ class Livre {
     }
 }
 
-// 3 - 
+// 3 - L’inscription est une action fait par l’étudiant donc on placer dans la classe etudiant 
 
 class Cours {
     public $nom;
