@@ -1,0 +1,216 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/iamjustwliya/Bureau/PlanDePreparation/jour4.php",
+		"/home/iamjustwliya/Bureau/PlanDePreparation/Readme.md",
+		"/home/iamjustwliya/EspaceEmploi/database/migrations/2026_02_01_182612_create_skills_table.php",
+		"/home/iamjustwliya/EspaceEmploi/database/factories/SkillFactory.php",
+		"/home/iamjustwliya/EspaceEmploi/app/Models/CandidateProfile.php",
+		"/home/iamjustwliya/EspaceEmploi/app/Models/User.php",
+		"/home/iamjustwliya/EspaceEmploi/app/Http/Controllers/ProfileController.php",
+		"/home/iamjustwliya/EspaceEmploi/resources/views/auth/register.blade.php",
+		"/home/iamjustwliya/EspaceEmploi/app/Http/Controllers/Auth/RegisteredUserController.php",
+		"/home/iamjustwliya/EspaceEmploi/database/migrations/0001_01_01_000000_create_users_table.php",
+		"/home/iamjustwliya/EspaceEmploi/database/seeders/DatabaseSeeder.php",
+		"/home/iamjustwliya/EspaceEmploi/app/Models/Skill.php",
+		"/home/iamjustwliya/EspaceEmploi/database/migrations/2026_02_02_092116_drop_role_column_from_users_table.php",
+		"/home/iamjustwliya/EspaceEmploi/app/Models/JobOffer.php",
+		"/home/iamjustwliya/EspaceEmploi/app/Models/Experience.php",
+		"/home/iamjustwliya/EspaceEmploi/app/Models/Education.php",
+		"/home/iamjustwliya/EspaceEmploi/app/Models/Application.php",
+		"/home/iamjustwliya/EspaceEmploi/app/Models/Amitie.php",
+		"/home/iamjustwliya/EspaceEmploi/database/migrations/2026_02_02_090845_drop_role_column_from_users_table.php",
+		"/home/iamjustwliya/EspaceEmploi/database/factories/EducationFactory.php",
+		"/home/iamjustwliya/EspaceEmploi/database/factories/CandidateProfileFactory.php",
+		"/home/iamjustwliya/EspaceEmploi/database/migrations/2026_02_01_183228_create_amitie_table.php",
+		"/home/iamjustwliya/EspaceEmploi/database/migrations/2026_02_01_182510_create_experiences_table.php",
+		"/home/iamjustwliya/EspaceEmploi/database/factories/ExperienceFactory.php",
+		"/home/iamjustwliya/EspaceEmploi/database/migrations/2026_02_01_182234_create_educations_table.php",
+		"/home/iamjustwliya/EspaceEmploi/resources/views/profile/partials/update-profile-information-form.blade.php",
+		"/home/iamjustwliya/EspaceEmploi/routes/web.php",
+		"/home/iamjustwliya/EspaceEmploi/app/Http/Controllers/UserSearchController.php",
+		"/home/iamjustwliya/EspaceEmploi/resources/views/search/index.blade.php",
+		"/home/iamjustwliya/EspaceEmploi/database/migrations/2026_02_01_181157_create_candidate_profiles_table.php",
+		"/home/iamjustwliya/EspaceEmploi/database/migrations/2026_02_01_182721_create_candidate_profile_skill_table.php",
+		"/home/iamjustwliya/EspaceEmploi/database/migrations/2026_02_01_182926_create_job_offers_table.php",
+		"/home/iamjustwliya/EspaceEmploi/database/migrations/2026_02_01_183042_create_applications_table.php",
+		"/home/iamjustwliya/EspaceEmploi/database/factories/JobOfferFactory.php",
+		"/home/iamjustwliya/EspaceEmploi/resources/views/layouts/navigation.blade.php",
+		"/home/iamjustwliya/EspaceEmploi/resources/views/dashboard/recruiter.blade.php",
+		"/home/iamjustwliya/EspaceEmploi/resources/views/dashboard/chercheur.blade.php",
+		"/home/iamjustwliya/EspaceEmploi/resources/views/users/show.blade.php",
+		"/home/iamjustwliya/EspaceEmploi/app/Http/Controllers/UserController.php",
+		"/home/iamjustwliya/EspaceEmploi/public/index.php",
+		"/home/iamjustwliya/EspaceEmploi/resources/views/profile/edit.blade.php",
+		"/home/iamjustwliya/EspaceEmploi/resources/views/profile/partials/update-password-form.blade.php",
+		"/home/iamjustwliya/EspaceEmploi/app/Http/Controllers/Auth/AuthenticatedSessionController.php",
+		"/home/iamjustwliya/EspaceEmploi/resources/views/recruteur.blade.php",
+		"/home/iamjustwliya/Bureau/PlanDePreparation/jour3.sql",
+		"/home/iamjustwliya/Bureau/PlanDePreparation/jour2.sql",
+		"/home/iamjustwliya/Bureau/PlanDePreparation/jour1.php"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"pinned_build_system": "",
+	"project": "jour4.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 479.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
