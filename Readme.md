@@ -67,3 +67,11 @@ Etudiant 1..* ───── 1..* Cours
 6 - Un cours existe sans un étudiant et Supprimer un étudiant ne supprime pas le cours et parmit
 
 Si la classe représente un être humain on évite la composition par défaut (bonne pratique de uml )
+
+### jour7 
+
+1 - INNER JOIN	: garde les lignes qui ont une correspondance dans les deux tables , LEFT JOIN : Garde toutes les lignes de la table de gauche, même si aucune correspondance ;
+
+2 - Garde toutes les lignes de la table de droite , même si aucune correspondance 
+
+3 - Oui , On peut joindre plus de deux tables dans une seule requête INNER JOIN / LEFT JOIN / RIGHT JOIN
